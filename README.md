@@ -1,0 +1,1 @@
+# A base Django project
